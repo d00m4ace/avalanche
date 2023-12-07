@@ -1,0 +1,292 @@
+Start
+بداية
+Options
+خيارات
+Settings
+إعدادات
+Credits
+الاعتمادات
+HighScores
+نتائج عالية
+Exit
+ىخرج
+Enter
+أدخل
+Return
+إرجاع
+Ok
+حسنا
+Pause
+وقفة
+Resume
+استئنف
+Restart
+إعادة بدء
+Play
+لعب
+Replay
+إعادة
+Close
+قريب
+Cancel
+إلغاء
+Back
+الى الخلف
+Next
+التالى
+Previous
+سابق
+Continue
+استمر
+Accept
+قبول
+Decline
+انخفاض
+Menu
+قائمة طعام
+MainMenu
+القائمة الرئيسية
+Account
+الحساب
+Share
+شارك
+Spin
+غزل
+Buy
+يشترى
+Sell
+يبيع
+Add
+إضافة
+Delete
+حذف
+Pickup
+امسك
+Drop
+قطرة
+Use
+استعمال
+Plus
+زائد
+Minus
+ناقص
+A
+ا
+B
+ب
+C
+C
+D
+د
+Left
+اليسار
+Right
+حق
+Up
+فوق
+Down
+أسفل
+Keyboard
+لوحة المفاتيح
+Slotmachine
+جهاز قمار
+On
+على
+Off
+إيقاف
+Sound
+صوت
+Music
+موسيقى
+Language
+لغة
+Control
+مراقبة
+Note
+ملحوظة
+Volume
+الصوت
+Shadows
+الظلال
+Facebook
+فيس بوك
+Twitter
+تغريد
+AdsRewardedVideo
+AdsRewardedVideo
+World
+العالمية
+Video
+فيديو
+FaceCam
+وجه كاميرا.
+VideoRec
+الفيديو تم.
+SignIn
+تسجيل الدخول
+SignOut
+خروج
+SocialSignIn
+اجتماعي
+MoreGames
+المزيد من الألعاب
+InviteFriends
+ادعو أصدقاء
+RestorePurchases
+استعادة المشتريات
+AndroidPermissionsSettingsRequest
+يرجى التأكد من صحة هذه الأذونات من خلال الذهاب الى [إعدادات]> [ضوابط]
+AndroidPermissionsRequestOnStart
+لعبة يستخدم خدمات Google Play الألعاب لتخزين الملفات الشخصية لاعب. تتطلب هذه الخدمات الوصول إلى جهات الاتصال. اللعبة نفسها لا تخزن أو تستخدم هذه البيانات في أي شكل من الأشكال. بالإضافة إلى ذلك، يتعين الحصول على إذن للوصول إلى وحدة تخزين خارجية لحفظ بيانات اللعبة.
+GooglePlayServices
+تطبيقات جوجل
+GameCenter
+مركز الالعاب
+NotEnoughCoins
+عملات غير كافية
+Yes
+نعم فعلا
+No
+لا
+ExitGame
+هل تريد إنهاء اللعبة؟
+Combo
+COMBO
+Touch
+لمس. اتصال. صلة
+Joystick
+عصا التحكم
+Gyroscope
+جيروسكوب
+Mixed
+مختلط
+TestEnum
+تصميم مشهد اختبار لخزان FPS، ثم قياسه مع عداد الخاصة بك.
+GameScreenScore
+أحرز هدفاً:
+GameScreenSpeed
+سرعة:
+GameScreenDistance
+حي:
+GameScreenTime
+زمن:
+Ready
+جاهز!
+GameOver
+انتهت اللعبة
+EnterYourName
+أدخل أسمك
+NewHighScorePlace
+درجة عالية جديدة #
+SelectYourHero
+اختر بطلك
+SpinToWinANewHeroes
+تدور للفوز أبطال جدد
+GotANewHero
+حصلت على البطل الجديد!
+AVALANCHE
+انهيار ثلجي
+TheVideoGame
+لعبة فيديو
+Copyright
+© 2017 HEXPLAY وHEROCRAFT
+CreditsText
+© 2017 HEXPLAY وHEROCRAFT [>] [>] الترميز وتصميم لعبة: أندرو بتروف [>] [>] 3D الفنان: منار Ishmanov [>] [>] الموسيقى: فاسيلي Filitov [>] [>] نموذج: كيريل أوسيبوف [ >] [>] الفاحص: انطون غريشين [>] [>] العلاقات العامة والتسويق: دي Madiyeva [>] [>] منتج: بافل كوستين
+PressStart
+الصحافة ▶ ستارت للعب
+KilometerPerHour
+كم / ساعة
+MeterShort
+م
+Completed
+منجز
+HeroName1
+سوبر بوي
+HeroName2
+الجلد الأخضر
+HeroName3
+الفارس الأحمر
+HeroName4
+روبو رجل
+HeroName5
+درع رجل
+HeroName6
+باني
+HeroName7
+المحامية
+HeroName8
+الشرطي
+HeroName9
+شريف
+HeroName10
+JOCKER
+HeroName11
+بوت 9000
+HeroName12
+الكونغ فو مان
+HeroName13
+السفاح
+HeroName14
+كنترول
+HeroName15
+كره الوحش
+HeroName16
+عين الكبيرة
+HeroName17
+رائد فضاء
+HeroName18
+السوبر للأطفال
+HeroName19
+Mr.Robot
+HeroName20
+Mr.Rat
+HeroName21
+شيطان
+HeroName22
+الروبوت
+HeroName23
+رايدر الظلام
+HeroName24
+أولمرت الخضراء
+HeroName25
+نجوم الفرقة
+HeroName26
+اليقطين رجل
+HeroName27
+ساحرة
+HeroName28
+رعب
+HeroName29
+هيكل عظمي
+HeroName30
+مهووس
+HeroName31
+قبعة حمراء
+HeroName32
+الرجل الثلجي
+HeroName33
+سانتا
+HeroName34
+الأخضر العفريت
+LocalNotificationsTitle
+هدية مجانية
+LocalNotificationsText
+الحصول على 100 عملات مجانا.
+AppInviteTitle
+لعبة AVALANCHE فيديو
+AppInviteMessage
+تحقق هذا متعة لعبة
+AppInviteCallToActionText
+مهلا! تحقق من هذا.
+RateUsTitle
+تحب هذه اللعبة؟
+RateUsMessage
+يرجى تقييم لدعم التحديثات المستقبلية!
+Achievements
+الإنجازات
+RateUs
+قيمنا
+RateUsDecline
+لا شكرا
+RateUsRemind
+في وقت لاحق

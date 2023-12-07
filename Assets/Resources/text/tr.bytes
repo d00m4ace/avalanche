@@ -1,0 +1,292 @@
+Start
+Başlama
+Options
+Seçenekler
+Settings
+Ayarlar
+Credits
+Kredi
+HighScores
+Yüksek puanlar
+Exit
+çıkış
+Enter
+Girmek
+Return
+Dönüş
+Ok
+Tamam
+Pause
+durma
+Resume
+Devam et
+Restart
+Tekrar başlat
+Play
+Oyun
+Replay
+Tekrar
+Close
+Kapat
+Cancel
+İptal etmek
+Back
+Geri
+Next
+Sonraki
+Previous
+Önceki
+Continue
+Devam et
+Accept
+Kabul etmek
+Decline
+düşüş
+Menu
+Menü
+MainMenu
+Ana menü
+Account
+hesap
+Share
+Pay
+Spin
+Çevirmek
+Buy
+satın almak
+Sell
+Satmak
+Add
+Eklemek
+Delete
+silmek
+Pickup
+Almak
+Drop
+Düşürmek
+Use
+kullanım
+Plus
+Artı
+Minus
+Eksi
+A
+bir
+B
+B
+C
+C
+D
+D
+Left
+Ayrıldı
+Right
+Sağ
+Up
+yukarı
+Down
+Aşağı
+Keyboard
+Tuş takımı
+Slotmachine
+Kumar makinesi
+On
+üzerinde
+Off
+kapalı
+Sound
+Ses
+Music
+Müzik
+Language
+Dil
+Control
+Kontrol
+Note
+Not
+Volume
+hacim
+Shadows
+gölgeler
+Facebook
+Facebook
+Twitter
+heyecan
+AdsRewardedVideo
+AdsRewardedVideo
+World
+Dünya
+Video
+Video
+FaceCam
+Yüz Kamera.
+VideoRec
+Video Rec.
+SignIn
+Oturum aç
+SignOut
+Oturumu Kapat
+SocialSignIn
+Sosyal
+MoreGames
+Daha fazla oyun
+InviteFriends
+Arkadaşları davet etmek
+RestorePurchases
+satın Restore
+AndroidPermissionsSettingsRequest
+[Ayarlar]> [İzinler] giderek bu izinleri teyit edin
+AndroidPermissionsRequestOnStart
+Oyun Google oyuncu profilleri depolamak için Oyun Play Hizmetleri kullanır; Bu hizmetler kişilere erişim gerektirir. Oyunun kendisi saklamak veya herhangi bir şekilde bu verileri kullanmaz. Buna ek olarak, harici depolama erişmek için izin oyun verileri kaydetmek için gereklidir.
+GooglePlayServices
+Google Oyun
+GameCenter
+Oyun Merkezi
+NotEnoughCoins
+Yeterli bozuk para yok
+Yes
+Evet
+No
+Yok hayır
+ExitGame
+Oyundan çıkmak istiyor musunuz?
+Combo
+COMBO
+Touch
+Dokunma
+Joystick
+Oyun kolu
+Gyroscope
+Jiroskop
+Mixed
+Karışık
+TestEnum
+FPS sonra kendi sayacı ile ölçmek, tanka bir test sahne tasarlayın.
+GameScreenScore
+Gol:
+GameScreenSpeed
+hız:
+GameScreenDistance
+Dist .:
+GameScreenTime
+Zaman:
+Ready
+Hazır!
+GameOver
+Oyun bitti
+EnterYourName
+Adınızı giriniz
+NewHighScorePlace
+Yeni rekor #
+SelectYourHero
+Sizin Hero Seçin
+SpinToWinANewHeroes
+Yeni kahramanlar kazanmak için Spin
+GotANewHero
+yeni bir kahraman var!
+AVALANCHE
+ÇIĞ
+TheVideoGame
+video Oyunu
+Copyright
+© 2017 HEXPLAY & HeroCraft
+CreditsText
+© 2017 HEXPLAY & HeroCraft [>] [>] Kodlama ve Oyun Tasarımı: Andrew Petrov [>] [>] 3D Sanatçı: Manar Ishmanov [>] [>] Müzik: Vasiliy Filitov [>] [>] Prototype: Kirill Osipov [ >] [>] Tester: Anton Grishin [>] [>] PR & Marketing: Dee Madiyeva [>] [>] Yapımcı: Pavel Kostin
+PressStart
+▶ tuşuna basın BAŞLANGIÇ Play
+KilometerPerHour
+km / saat
+MeterShort
+m
+Completed
+Tamamlanan
+HeroName1
+Süper çocuk
+HeroName2
+yeşil Cilt
+HeroName3
+Red knight
+HeroName4
+Robo Man
+HeroName5
+Kalkan Adam
+HeroName6
+inşaatçı
+HeroName7
+Avukat
+HeroName8
+polis
+HeroName9
+Şerif
+HeroName10
+Jocker
+HeroName11
+Bot 9000
+HeroName12
+Kung Fu Man
+HeroName13
+Yırtıcı
+HeroName14
+contro
+HeroName15
+Xeno Beast
+HeroName16
+Büyük göz
+HeroName17
+uzaylı
+HeroName18
+Süper Bebek
+HeroName19
+Mr.Robot
+HeroName20
+Mr.Rat
+HeroName21
+İblis
+HeroName22
+Droid
+HeroName23
+koyu Raider
+HeroName24
+litle Yeşil
+HeroName25
+Yıldız Trooper
+HeroName26
+Kabak Man
+HeroName27
+Cadı
+HeroName28
+Vampir
+HeroName29
+iskelet
+HeroName30
+Manyak
+HeroName31
+Kırmızı şapka
+HeroName32
+Kardan adam
+HeroName33
+Santa
+HeroName34
+yeşil Elf
+LocalNotificationsTitle
+Hediye
+LocalNotificationsText
+ücretsiz 100 Paraları al.
+AppInviteTitle
+ÇIĞ video oyunu
+AppInviteMessage
+Bu eğlenceli oyun kontrol
+AppInviteCallToActionText
+Hey! Bu göz atın.
+RateUsTitle
+Bu oyun gibi mi?
+RateUsMessage
+Gelecekteki güncellemeler desteklemek için Lütfen oranı!
+Achievements
+Başarılar
+RateUs
+Rate Us
+RateUsDecline
+No, Thanks
+RateUsRemind
+Later

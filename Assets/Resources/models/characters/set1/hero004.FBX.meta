@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: f63ad425da16b4f4092407c112b70a53
+timeCreated: 1454933179
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body_02
+    100002: drop_l_skiing02
+    100004: drop_l_sticks02
+    100006: drop_r_skiing02
+    100008: drop_r_sticks02
+    100010: head_02
+    100012: l_arm02
+    100014: leg_l_02
+    100016: leg_r_02
+    100018: r_arm02
+    100020: //RootNode
+    400000: body_02
+    400002: drop_l_skiing02
+    400004: drop_l_sticks02
+    400006: drop_r_skiing02
+    400008: drop_r_sticks02
+    400010: head_02
+    400012: l_arm02
+    400014: leg_l_02
+    400016: leg_r_02
+    400018: r_arm02
+    400020: //RootNode
+    2300000: body_02
+    2300002: drop_l_skiing02
+    2300004: drop_l_sticks02
+    2300006: drop_r_skiing02
+    2300008: drop_r_sticks02
+    2300010: head_02
+    2300012: l_arm02
+    2300014: leg_l_02
+    2300016: leg_r_02
+    2300018: r_arm02
+    3300000: body_02
+    3300002: drop_l_skiing02
+    3300004: drop_l_sticks02
+    3300006: drop_r_skiing02
+    3300008: drop_r_sticks02
+    3300010: head_02
+    3300012: l_arm02
+    3300014: leg_l_02
+    3300016: leg_r_02
+    3300018: r_arm02
+    4300000: leg_l_02
+    4300002: leg_r_02
+    4300004: drop_r_skiing02
+    4300006: drop_l_skiing02
+    4300008: head_02
+    4300010: l_arm02
+    4300012: drop_l_sticks02
+    4300014: body_02
+    4300016: r_arm02
+    4300018: drop_r_sticks02
+    7400000: Idle
+    7400002: Move
+    7400004: Attack
+    7400006: Fall
+    7400008: Rest
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body_02
+        weight: 1
+      - path: drop_l_skiing02
+        weight: 1
+      - path: drop_r_skiing02
+        weight: 1
+      - path: head_02
+        weight: 1
+      - path: l_arm02
+        weight: 1
+      - path: l_arm02/drop_l_sticks02
+        weight: 1
+      - path: leg_l_02
+        weight: 1
+      - path: leg_r_02
+        weight: 1
+      - path: r_arm02
+        weight: 1
+      - path: r_arm02/drop_r_sticks02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 100
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body_02
+        weight: 1
+      - path: drop_l_skiing02
+        weight: 1
+      - path: drop_r_skiing02
+        weight: 1
+      - path: head_02
+        weight: 1
+      - path: l_arm02
+        weight: 1
+      - path: l_arm02/drop_l_sticks02
+        weight: 1
+      - path: leg_l_02
+        weight: 1
+      - path: leg_r_02
+        weight: 1
+      - path: r_arm02
+        weight: 1
+      - path: r_arm02/drop_r_sticks02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 101
+      lastFrame: 150
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body_02
+        weight: 1
+      - path: drop_l_skiing02
+        weight: 1
+      - path: drop_r_skiing02
+        weight: 1
+      - path: head_02
+        weight: 1
+      - path: l_arm02
+        weight: 1
+      - path: l_arm02/drop_l_sticks02
+        weight: 1
+      - path: leg_l_02
+        weight: 1
+      - path: leg_r_02
+        weight: 1
+      - path: r_arm02
+        weight: 1
+      - path: r_arm02/drop_r_sticks02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fall
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 200
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body_02
+        weight: 1
+      - path: drop_l_skiing02
+        weight: 1
+      - path: drop_r_skiing02
+        weight: 1
+      - path: head_02
+        weight: 1
+      - path: l_arm02
+        weight: 1
+      - path: l_arm02/drop_l_sticks02
+        weight: 1
+      - path: leg_l_02
+        weight: 1
+      - path: leg_r_02
+        weight: 1
+      - path: r_arm02
+        weight: 1
+      - path: r_arm02/drop_r_sticks02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rest
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 152
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body_02
+        weight: 1
+      - path: drop_l_skiing02
+        weight: 1
+      - path: drop_r_skiing02
+        weight: 1
+      - path: head_02
+        weight: 1
+      - path: l_arm02
+        weight: 1
+      - path: l_arm02/drop_l_sticks02
+        weight: 1
+      - path: leg_l_02
+        weight: 1
+      - path: leg_r_02
+        weight: 1
+      - path: r_arm02
+        weight: 1
+      - path: r_arm02/drop_r_sticks02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

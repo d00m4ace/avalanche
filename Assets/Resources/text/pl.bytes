@@ -1,0 +1,296 @@
+Start
+Początek
+Options
+Opcje
+Settings
+Ustawienia
+Credits
+Kredyty
+HighScores
+Wysokie noty
+Exit
+Wyjście
+Enter
+Wchodzić
+Return
+Powrót
+Ok
+Ok
+Pause
+Pauza
+Resume
+Wznawianie
+Restart
+restart
+Play
+Grać
+Replay
+Powtórna rozgrywka
+Close
+Blisko
+Cancel
+Anuluj
+Back
+Plecy
+Next
+Następny
+Previous
+Poprzedni
+Continue
+Kontyntynuj
+Accept
+Zaakceptować
+Decline
+Upadek
+Menu
+Menu
+MainMenu
+Menu główne
+Account
+Konto
+Share
+Dzielić
+Spin
+Spin
+Buy
+Kupować
+Sell
+Sprzedać
+Add
+Dodaj
+Delete
+Kasować
+Pickup
+Odebrać
+Drop
+Upuszczać
+Use
+Posługiwać się
+Plus
+Plus
+Minus
+Minus
+A
+ZA
+B
+b
+C
+do
+D
+re
+Left
+Lewo
+Right
+Dobrze
+Up
+W górę
+Down
+Na dół
+Keyboard
+Klawiatura
+Slotmachine
+Automat
+On
+Na
+Off
+Poza
+Sound
+Dźwięk
+Music
+Muzyka
+Language
+Język
+Control
+Kontrola
+Note
+Uwaga
+Volume
+Tom
+Shadows
+cienie
+Facebook
+Facebook
+Twitter
+Świergot
+AdsRewardedVideo
+AdsRewardedVideo
+World
+Świat
+Video
+Wideo
+FaceCam
+Twarz Cam.
+VideoRec
+Film Rec.
+SignIn
+Zaloguj
+SignOut
+Wyloguj się
+SocialSignIn
+Społeczny
+MoreGames
+Więcej gier
+InviteFriends
+Zaprosić przyjaciół
+RestorePurchases
+Przywróć zakupy
+AndroidPermissionsSettingsRequest
+Proszę potwierdzić te uprawnienia, przechodząc do menu [Ustawienia]> [uprawnień]
+AndroidPermissionsRequestOnStart
+Gra wykorzystuje Google Play Games Services do przechowywania profili gracza; usługi te wymagają dostępu do kontaktów. Gra sama w sobie nie należy przechowywać ani używać tych danych w jakikolwiek sposób. Dodatkowo, uprawnienia dostępu do pamięci zewnętrznej jest wymagane, aby zapisać dane gry.
+GooglePlayServices
+Google play
+GameCenter
+Centrum Gier
+NotEnoughCoins
+Niewystarczająca liczba monet
+Yes
+tak
+No
+Nie
+ExitGame
+Czy chcesz zakończyć grę?
+Combo
+COMBO
+Touch
+Dotknąć
+Joystick
+Drążek sterowy
+Gyroscope
+Żyroskop
+Mixed
+Mieszany
+TestEnum
+Zaprojektować scenę testowy do zbiornika Twój FPS, a następnie zmierzyć z własnym licznikiem.
+GameScreenScore
+Wynik:
+GameScreenSpeed
+Prędkość:
+GameScreenDistance
+dist .:
+GameScreenTime
+Czas:
+Ready
+Gotowy!
+GameOver
+Koniec gry
+EnterYourName
+Wpisz swoje imię
+NewHighScorePlace
+Nowy rekord #
+SelectYourHero
+Wybierz swój Hero
+SpinToWinANewHeroes
+Spin wygrać nowych bohaterów
+GotANewHero
+Ma nowego bohatera!
+AVALANCHE
+LAWINA
+TheVideoGame
+The Video Game
+Copyright
+© 2017 HEXPLAY & HeroCraft
+CreditsText
+© 2017 HEXPLAY & HeroCraft [>] [>] Coding & Design Gra: Andrew Petrov [>] [>] 3D Artist: Manar Ishmanov [>] [>] Muzyka: Wasilij Filitov [>] [>] Prototype: Kirill Osipov [ >] [>] Tester: Anton Grishin [>] [>] PR & Marketing: Dee Madiyeva [>] [>] Producent: Pavel Kostin
+PressStart
+Naciśnij przycisk ▶ zacząć grać
+KilometerPerHour
+km / h
+MeterShort
+m
+Completed
+Zakończony
+HeroName1
+Super chłopak
+HeroName2
+Zielony Skóra
+HeroName3
+czerwony rycerz
+HeroName4
+Robo Man
+HeroName5
+Tarcza Man
+HeroName6
+Budowniczy
+HeroName7
+Prawnik
+HeroName8
+Policjant
+HeroName9
+Szeryf
+HeroName10
+Jocker
+HeroName11
+Bot 9000
+HeroName12
+Kung Fu Man
+HeroName13
+Rozpruwacz
+HeroName14
+contro
+HeroName15
+Xeno Bestia
+HeroName16
+Duże oko
+HeroName17
+Astronauta
+HeroName18
+Super niemowląt
+HeroName19
+Mr.Robot
+HeroName20
+Mr.Rat
+HeroName21
+Demon
+HeroName22
+Droid
+HeroName23
+ciemny Raider
+HeroName24
+litle Zielony
+HeroName25
+Gwiazda Trooper
+HeroName26
+Mężczyzna dyni
+HeroName27
+Czarownica
+HeroName28
+Wampir
+HeroName29
+Szkielet
+HeroName30
+Maniak
+HeroName31
+czerwony kapelusz
+HeroName32
+Bałwan
+HeroName33
+Święty
+HeroName34
+Zielony Elf
+LocalNotificationsTitle
+Prezent
+LocalNotificationsText
+Zdobądź 100 monet za darmo.
+AppInviteTitle
+Gra AVALANCHE Video
+AppInviteMessage
+Zaznaczenie tej zabawnej grze
+AppInviteCallToActionText
+Hej! Sprawdź to.
+RateUsTitle
+Podobnie jak ta gra?
+RateUsMessage
+Proszę ocenić na wsparcie przyszłych aktualizacji!
+Achievements
+Osiągnięcia
+Support
+Assistenza
+RemoveADs
+Kup cokolwiek w grze by usunąć reklamy!
+RateUs
+Oceń nas
+RateUsDecline
+Nie, dziękuję
+RateUsRemind
+Później

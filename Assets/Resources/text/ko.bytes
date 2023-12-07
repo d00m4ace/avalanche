@@ -1,0 +1,292 @@
+Start
+스타트
+Options
+옵션
+Settings
+설정
+Credits
+크레딧
+HighScores
+고득점
+Exit
+출구
+Enter
+들어가다
+Return
+반환
+Ok
+승인
+Pause
+중지
+Resume
+이력서
+Restart
+재시작
+Play
+놀이
+Replay
+다시 하다
+Close
+닫기
+Cancel
+취소
+Back
+뒤로
+Next
+다음 것
+Previous
+너무 이른
+Continue
+잇다
+Accept
+수락
+Decline
+쇠퇴
+Menu
+메뉴
+MainMenu
+메인 메뉴
+Account
+계정
+Share
+몫
+Spin
+회전
+Buy
+사다
+Sell
+팔다
+Add
+더하다
+Delete
+지우다
+Pickup
+픽업
+Drop
+하락
+Use
+용도
+Plus
+을 더한
+Minus
+마이너스
+A
+에이
+B
+비
+C
+기음
+D
+디
+Left
+왼쪽
+Right
+권리
+Up
+쪽으로
+Down
+하위
+Keyboard
+건반
+Slotmachine
+슬롯 머신
+On
+에
+Off
+떨어져서
+Sound
+소리
+Music
+음악
+Language
+언어
+Control
+제어
+Note
+노트
+Volume
+음량
+Shadows
+그림자
+Facebook
+페이스 북
+Twitter
+지저귀다
+AdsRewardedVideo
+AdsRewardedVideo
+World
+세계
+Video
+비디오
+FaceCam
+얼굴 캠.
+VideoRec
+비디오 녹화.
+SignIn
+로그인
+SignOut
+아웃
+SocialSignIn
+사회적인
+MoreGames
+더 많은 게임
+InviteFriends
+친구를 초대
+RestorePurchases
+구매를 복원
+AndroidPermissionsSettingsRequest
+[설정]> [권한]로 이동하여 이러한 권한을 확인하시기 바랍니다
+AndroidPermissionsRequestOnStart
+이 게임은 구글이 선수 프로필을 저장하는 게임 Play 서비스 사용; 이 서비스는 연락처에 대한 액세스를 필요로합니다. 이 게임은 자체 저장하거나 어떤 방식으로이 데이터를 사용하지 않습니다. 또한, 외부 저장 장치를 액세스 할 수있는 권한은 게임 데이터를 저장하는 데 필요합니다.
+GooglePlayServices
+구글 플레이
+GameCenter
+게임 센터
+NotEnoughCoins
+충분하지 주화
+Yes
+예
+No
+아니
+ExitGame
+당신은 게임을 종료 하시겠습니까?
+Combo
+COMBO
+Touch
+접촉
+Joystick
+조종간
+Gyroscope
+자이로 스코 우프
+Mixed
+혼합 된
+TestEnum
+당신의 FPS는 자신의 카운터를 측정 탱크로 테스트 장면을 디자인합니다.
+GameScreenScore
+점수:
+GameScreenSpeed
+속도:
+GameScreenDistance
+DIST :
+GameScreenTime
+시각:
+Ready
+준비된!
+GameOver
+게임 끝
+EnterYourName
+당신의 이름을 입력
+NewHighScorePlace
+새로운 최고 점수 #
+SelectYourHero
+당신의 영웅을 선택
+SpinToWinANewHeroes
+새로운 영웅을 이기기 위해 스핀
+GotANewHero
+새로운 영웅있어!
+AVALANCHE
+눈사태
+TheVideoGame
+비디오 게임
+Copyright
+© 2017 HEXPLAY & HeroCraft의
+CreditsText
+© 2017 HEXPLAY 및 HeroCraft의 [>] [>] 코딩 및 게임 디자인 : 앤드류 페트로프 [>] [>] 3D 아티스트 : 마 나르 Ishmanov [>] [>] 음악 : Vasiliy Filitov [>] [>] 프로토 타입 : 키릴 Osipov [ >] [>] 테스터 : 안톤 그리 신 [>] [>] PR 및 마케팅 : 디 Madiyeva [>] [>] 프로듀서 : 파벨 Kostin
+PressStart
+를 눌러 ▶ START 플레이하기
+KilometerPerHour
+의 km / h
+MeterShort
+엠
+Completed
+완료
+HeroName1
+슈퍼 보이
+HeroName2
+녹색 피부
+HeroName3
+레드 나이트
+HeroName4
+로보 남자
+HeroName5
+방패 남자
+HeroName6
+건축업자
+HeroName7
+변호사
+HeroName8
+경관
+HeroName9
+주 장관
+HeroName10
+Jocker
+HeroName11
+봇 9000
+HeroName12
+쿵푸 남자
+HeroName13
+리퍼
+HeroName14
+Contro
+HeroName15
+제노 야수
+HeroName16
+큰 눈
+HeroName17
+우주 비행사
+HeroName18
+슈퍼 베이비
+HeroName19
+Mr.Robot
+HeroName20
+Mr.Rat
+HeroName21
+악마
+HeroName22
+이드
+HeroName23
+다크 레이더
+HeroName24
+저 작은 녹색
+HeroName25
+스타 기병
+HeroName26
+호박 남자
+HeroName27
+마녀
+HeroName28
+흡혈귀
+HeroName29
+해골
+HeroName30
+미치광이
+HeroName31
+빨간 모자
+HeroName32
+눈사람
+HeroName33
+산타
+HeroName34
+그린 엘프
+LocalNotificationsTitle
+선물
+LocalNotificationsText
+무료 100 동전을 가져옵니다.
+AppInviteTitle
+눈사태 비디오 게임
+AppInviteMessage
+이 재미있는 게임을 확인
+AppInviteCallToActionText
+이봐! 이것 좀 봐.
+RateUsTitle
+이 게임처럼?
+RateUsMessage
+향후 업데이트를 지원하기 위해 평가하십시오!
+Achievements
+업적
+RateUs
+우리 평가하기
+RateUsDecline
+괜찮습니다
+RateUsRemind
+후에

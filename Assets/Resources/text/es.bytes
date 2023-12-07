@@ -1,0 +1,296 @@
+Start
+Empezar
+Options
+Opciones
+Settings
+Configuración
+Credits
+Créditos
+HighScores
+Records
+Exit
+Salir
+Enter
+Entrar
+Return
+Volver
+Ok
+Ok
+Pause
+Pausa
+Resume
+Seguir
+Restart
+Reiniciar
+Play
+Jugar
+Replay
+Repetir
+Close
+Cerrar
+Cancel
+Cancelar
+Back
+Atrás
+Next
+Siguiente
+Previous
+Anterior
+Continue
+Continuar
+Accept
+Aceptar
+Decline
+Rechazar
+Menu
+Menú
+MainMenu
+Menú principal
+Account
+Cuenta
+Share
+Compartir
+Spin
+Girar
+Buy
+Comprar
+Sell
+Vender
+Add
+Añadir
+Delete
+Borrar
+Pickup
+Recoger
+Drop
+Soltar
+Use
+Usar
+Plus
+Más
+Minus
+Menos
+A
+A
+B
+B
+C
+C
+D
+D
+Left
+Izquierda
+Right
+Derecha
+Up
+Arriba
+Down
+Abajo
+Keyboard
+Teclado
+Slotmachine
+Tragaperras
+On
+Si
+Off
+No
+Sound
+Sonido
+Music
+Música
+Language
+Idioma
+Control
+Control
+Note
+Nota
+Volume
+Volumen
+Shadows
+Sombras
+Facebook
+Facebook
+Twitter
+Twitter
+AdsRewardedVideo
+AdsRewardedVideo
+World
+Mundo
+Video
+Vídeo
+FaceCam
+Cám. facial
+VideoRec
+Video reg.
+SignIn
+Login
+SignOut
+Logout
+SocialSignIn
+Social
+MoreGames
+Más Juegos
+InviteFriends
+Invitar A Amigos
+RestorePurchases
+Restaurar Las Compras
+AndroidPermissionsSettingsRequest
+Por favor, confirma estos permisos en [Configuración] > [Permisos]
+AndroidPermissionsRequestOnStart
+El juego usa Google Play Games Services para almacenar perfiles de usuario; este servicio requiere accesos especiales a contactos, pero el juego no guardará ni usará dichos datos en forma alguna. Adicionalmente, se requieren permisos para acceder al almacenaje externo para guardar datos del juego.
+GooglePlayServices
+Google Play
+GameCenter
+Game Center
+NotEnoughCoins
+Faltan monedas
+Combo
+COMBO
+Touch
+Touch
+Joystick
+Joystick
+Gyroscope
+Giroscopio
+Mixed
+Mezclado
+TestEnum
+Design a test scene to tank your FPS, then measure it with your own counter.
+GameScreenScore
+Puntos:
+GameScreenSpeed
+Velocidad:
+GameScreenDistance
+Dist.:
+GameScreenTime
+Tiempo:
+Ready
+¡Listo!
+GameOver
+Fin del juego
+EnterYourName
+Pon tu nombre
+NewHighScorePlace
+Nuevo récord #
+SelectYourHero
+Elige tu héroe
+SpinToWinANewHeroes
+Gira para ganar nuevos héroes
+GotANewHero
+¡Nuevo héroe!
+AVALANCHE
+AVALANCHA
+TheVideoGame
+El videojuego
+Copyright
+© 2017 HEXPLAY & HEROCRAFT
+CreditsText
+© 2017 HEXPLAY & HEROCRAFT[>][>]Código y diseño del juego: Andrew Petrov[>][>]Artista 3D: Manar Ishmanov[>][>]Música: Vasiliy Filitov[>][>]Prototipo: Kirill Osipov[>][>]Testeo: Anton Grishin[>][>]PR y Marketing: Dee Madiyeva[>][>]Productor: Pavel Kostin
+PressStart
+Presiona ▶EMPEZAR para jugar
+KilometerPerHour
+km/h
+MeterShort
+m
+Completed
+Terminado
+HeroName1
+Super Boy
+HeroName2
+Pielverde
+HeroName3
+Caballero rojo
+HeroName4
+Robo Man
+HeroName5
+Escudero
+HeroName6
+Albañil
+HeroName7
+Abogado
+HeroName8
+Policía
+HeroName9
+Sheriff
+HeroName10
+Joker
+HeroName11
+Bot 9000
+HeroName12
+Kung Fu
+HeroName13
+El Destripador
+HeroName14
+Contro
+HeroName15
+Xenobestia
+HeroName16
+Ojogande
+HeroName17
+Astronauta
+HeroName18
+Superbebé
+HeroName19
+Sr. Robot
+HeroName20
+Sr. Rata
+HeroName21
+Demonio
+HeroName22
+Androide
+HeroName23
+Jinete oscuro
+HeroName24
+Pequeño goblin
+HeroName25
+Soldado de asalto
+HeroName26
+Calabaza
+HeroName27
+Bruja
+HeroName28
+Vampiro
+HeroName29
+Esqueleto
+HeroName30
+Maníaco
+HeroName31
+Sombrero rojo
+HeroName32
+Muñeco de nieve
+HeroName33
+Papá Noel
+HeroName34
+Elfo verde
+LocalNotificationsTitle
+¡Un regalo!
+LocalNotificationsText
+¡Consigue monedas gratis ahora!
+AppInviteTitle
+AVALANCHE El videojuego
+AppInviteMessage
+¡Hola! ¡Mira, un arcade de los clásicos!
+AppInviteCallToActionText
+¡Hola! ¡Mira, un arcade de los clásicos!
+RateUsTitle
+¿Te ha gustado el juego?
+RateUsMessage
+¡Vótanos para apoyar al proyecto!
+Yes
+Sí
+No
+No
+ExitGame
+¿Deseas salir del juego?
+Achievements
+Achievements
+Support
+Apoyo
+RemoveADs
+¡Compra cualquier cosa en el juego para quitar la publi!
+RateUs
+Califique Nosotros
+RateUsDecline
+No, gracias
+RateUsRemind
+Luego

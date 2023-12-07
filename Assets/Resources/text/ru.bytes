@@ -1,0 +1,296 @@
+Start
+Играть
+Options
+Опции
+Settings
+Настройки
+Credits
+Авторы
+HighScores
+Рекорды
+Exit
+Выход
+Enter
+Войти
+Return
+Назад
+Ok
+Ок
+Pause
+Пауза
+Resume
+Продолжить
+Restart
+Заново
+Play
+Играть
+Replay
+Повтор
+Close
+Закрыть
+Cancel
+Отмена
+Back
+Назад
+Next
+Следующий
+Previous
+Предыдущий
+Continue
+Продолжить
+Accept
+Принять
+Decline
+Назад
+Menu
+Меню
+MainMenu
+Главное меню
+Account
+Профиль
+Share
+Поделиться
+Spin
+Вращать
+Buy
+Купить
+Sell
+Продать
+Add
+Добавить
+Delete
+Удалить
+Pickup
+Подобрать
+Drop
+Выбросить
+Use
+Использовать
+Plus
+Плюс
+Minus
+Минус
+A
+A
+B
+В
+C
+С
+D
+D
+Left
+Влево
+Right
+Вправо
+Up
+Вверх
+Down
+Вниз
+Keyboard
+Клавиатура
+Slotmachine
+Слотмашина
+On
+Вкл.
+Off
+Выкл.
+Sound
+Звук
+Music
+Музыка
+Language
+Язык
+Control
+Управление
+Note
+Заметки
+Volume
+Громкость
+Shadows
+Тени
+Facebook
+Facebook
+Twitter
+Twitter
+AdsRewardedVideo
+Adsrewardedvideo
+World
+Мир
+Video
+Видео
+FaceCam
+Запись лица
+VideoRec
+Запись реплея
+SignIn
+Войти
+SignOut
+Выйти
+SocialSignIn
+Соц. опции
+MoreGames
+Больше Игр
+InviteFriends
+Пригласить Друзей
+RestorePurchases
+Восстановить Покупки
+AndroidPermissionsSettingsRequest
+Пожалуйста, подтвердите их, перейдя в [Настройки] > [Разрешения]
+AndroidPermissionsRequestOnStart
+В игре используются игровые сервисы Google.Play для хранения профиля игрока, и эти сервисы требуют доступ к контактам. Сама игра никаким образом не хранит и не использует эти данные. Кроме того, необходимо разрешение на доступ к внешнему носителю для сохранения игровых данных.
+GooglePlayServices
+Google Play
+GameCenter
+Game Center
+NotEnoughCoins
+Не хватает монет!
+Combo
+Комбо!
+Touch
+Тач
+Joystick
+Джойстик
+Gyroscope
+Гироскоп
+Mixed
+Смешанный
+TestEnum
+Создайте собственную тестовую сцену, а затем измерьте FPS
+GameScreenScore
+Очки:
+GameScreenSpeed
+Скорость:
+GameScreenDistance
+Расст.:
+GameScreenTime
+Время:
+Ready
+Готов!
+GameOver
+Игра закончена
+EnterYourName
+Введите ваше имя
+NewHighScorePlace
+Новый рекорд #
+SelectYourHero
+Выберите персонажа
+SpinToWinANewHeroes
+Вращайте и выигрывайте новых героев!
+GotANewHero
+Новый персонаж!
+AVALANCHE
+ЛАВИНА
+TheVideoGame
+видео игра
+Copyright
+© 2017 HEXPLAY & HEROCRAFT
+CreditsText
+© 2017 HEXPLAY & HEROCRAFT[>][>]Программирование и гейм-дизайн: Андрей Петров[>][>]3D художник: Манар Ishmanov[>][>]Музыка: Василий М. Филитов[>][>]Прототип: Кирилл Осипов[>][>]Тестирование: Антон Гришин[>][>]PR & Маркетинг: Ди Мадиева[>][>]Продюсер: Павел Костин
+PressStart
+Нажмите ▶ для начала игры
+KilometerPerHour
+км/ч
+MeterShort
+м.
+Completed
+Завершено
+HeroName1
+Супер Бой
+HeroName2
+Зеленокожий
+HeroName3
+Красный рыцарь
+HeroName4
+Робо
+HeroName5
+Щитовик
+HeroName6
+Строитель
+HeroName7
+Адвокат
+HeroName8
+Полисмен
+HeroName9
+Шериф
+HeroName10
+Джокер
+HeroName11
+Бот 9000
+HeroName12
+Кунг фу
+HeroName13
+Потрошитель
+HeroName14
+Контро
+HeroName15
+Ксенотварь
+HeroName16
+Большой Глаз
+HeroName17
+Астронавт
+HeroName18
+Супер бэби
+HeroName19
+Мр. Робот
+HeroName20
+Крыса
+HeroName21
+Демон
+HeroName22
+Дроид
+HeroName23
+Черный всадник
+HeroName24
+Маленький гоблин
+HeroName25
+Штурмовик
+HeroName26
+Тыква
+HeroName27
+Ведьма
+HeroName28
+Вампир
+HeroName29
+Скелет
+HeroName30
+Маньяк
+HeroName31
+Шапочка
+HeroName32
+Снеговик
+HeroName33
+Санта
+HeroName34
+Зеленый Эльф
+LocalNotificationsTitle
+Подарок!
+LocalNotificationsText
+Получи монетки бесплатно прямо сейчас!
+AppInviteTitle
+AVALANCHE The Video Game
+AppInviteMessage
+Проверьте эту забавную игру
+AppInviteCallToActionText
+Hey! Check this out. It is a fun retro arcade video game: 
+RateUsTitle
+Понравилась игра?
+RateUsMessage
+Поставьте оценку, чтобы поддержать проект!
+Yes
+Да
+No
+Нет
+ExitGame
+Вы хотите выйти?
+Achievements
+Achievements
+Support
+Поддержка
+RemoveADs
+Сделайте любую покупку, чтобы убрать рекламу!
+RateUs
+Оценить
+RateUsDecline
+Нет, Спасибо
+RateUsRemind
+Позже

@@ -1,0 +1,12 @@
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+Library/
+Logs/
+obj/
+Temp/
+
+*.csproj
+*.sln
+*.userprefs
+*.DS_store

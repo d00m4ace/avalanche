@@ -1,0 +1,292 @@
+Start
+alkaa
+Options
+Vaihtoehdot
+Settings
+asetukset
+Credits
+Laajuus
+HighScores
+Huippupisteet
+Exit
+poistuminen
+Enter
+Tulla sisään
+Return
+Palata
+Ok
+kunnossa
+Pause
+Tauko
+Resume
+Jatkaa
+Restart
+Uudelleenkäynnistää
+Play
+pelata
+Replay
+Uusinta
+Close
+kiinni
+Cancel
+Peruuttaa
+Back
+Takaisin
+Next
+Seuraava
+Previous
+Edellinen
+Continue
+Jatkaa
+Accept
+Hyväksyä
+Decline
+aleneminen
+Menu
+valikko
+MainMenu
+Päävalikko
+Account
+Tili
+Share
+Jaa
+Spin
+pyöräyttää
+Buy
+Ostaa
+Sell
+Myydä
+Add
+Lisätä
+Delete
+Poistaa
+Pickup
+Noukkia
+Drop
+Pudota
+Use
+Käyttää
+Plus
+Plus
+Minus
+Miinus
+A
+
+B
+B
+C
+C
+D
+D
+Left
+vasen
+Right
+oikea
+Up
+ylös
+Down
+Alas
+Keyboard
+Näppäimistö
+Slotmachine
+Peliautomaatti
+On
+Päällä
+Off
+Pois päältä
+Sound
+Ääni
+Music
+musiikki
+Language
+Kieli
+Control
+ohjaus
+Note
+Huomautus
+Volume
+tilavuus
+Shadows
+Shadows
+Facebook
+Facebook
+Twitter
+Viserrys
+AdsRewardedVideo
+AdsRewardedVideo
+World
+Maailman
+Video
+Video
+FaceCam
+Face Cam.
+VideoRec
+Video Rec.
+SignIn
+Kirjaudu sisään
+SignOut
+Kirjaudu ulos
+SocialSignIn
+sosiaalinen
+MoreGames
+Lisää pelejä
+InviteFriends
+Kutsua ystäviä
+RestorePurchases
+Palauttaa ostot
+AndroidPermissionsSettingsRequest
+Vahvista nämä käyttöoikeudet menemällä [Asetukset]> [Käyttöoikeudet]
+AndroidPermissionsRequestOnStart
+Peli käyttää Google Play -pelipalveluiden tallentamaan pelaaja profiileja; nämä palvelut vaativat pääsyä yhteystietoja. Peli itsessään ei säilytä tai käytä näitä tietoja millään tavalla. Lisäksi lupa käyttää ulkoista tallennustilaa tarvitaan tallentaa pelin tietoja.
+GooglePlayServices
+Google Play
+GameCenter
+Pelikeskus
+NotEnoughCoins
+Ei tarpeeksi kolikoita
+Yes
+Joo
+No
+Ei
+ExitGame
+Haluatko poistua pelistä?
+Combo
+COMBO
+Touch
+Kosketus
+Joystick
+peliohjain
+Gyroscope
+Gyroskooppi
+Mixed
+sekoitettu
+TestEnum
+Design testi kohtaus säiliö FPS, sitten mitata sitä omalla laskuri.
+GameScreenScore
+Pisteet:
+GameScreenSpeed
+Nopeus:
+GameScreenDistance
+Dist .:
+GameScreenTime
+Aika:
+Ready
+Valmis!
+GameOver
+Peli ohi
+EnterYourName
+Kirjoita nimesi
+NewHighScorePlace
+Uusi huipputulos #
+SelectYourHero
+Valitse Hero
+SpinToWinANewHeroes
+Spin voittaa uusia sankareita
+GotANewHero
+Sai uuden sankari!
+AVALANCHE
+LUMIVYÖRY
+TheVideoGame
+The Video Game
+Copyright
+© 2017 HEXPLAY & HEROCRAFT
+CreditsText
+© 2017 HEXPLAY & HEROCRAFT [>] [>] Coding & Game Design: Andrew Petrov [>] [>] 3D Artist: Manar Ishmanov [>] [>] Musiikki: Vasiliy Filitov [>] [>] Prototype: Kirill Osipov [ >] [>] Tester: Anton Grishin [>] [>] PR ja markkinointi: Dee Madiyeva [>] [>] Tuottaja: Pavel Kostin
+PressStart
+Paina ▶ START Play
+KilometerPerHour
+km / h
+MeterShort
+m
+Completed
+valmistunut
+HeroName1
+Super Boy
+HeroName2
+Green Skin
+HeroName3
+Red Knight
+HeroName4
+Robo Man
+HeroName5
+Shield Man
+HeroName6
+Rakentaja
+HeroName7
+Lakimies
+HeroName8
+Poliisi
+HeroName9
+seriffi
+HeroName10
+Jocker
+HeroName11
+Bot 9000
+HeroName12
+Kung Fu Man
+HeroName13
+Viiltäjä
+HeroName14
+contro
+HeroName15
+Xeno Beast
+HeroName16
+Big Eye
+HeroName17
+avaruusmies
+HeroName18
+Super Vauva
+HeroName19
+Mr.Robot
+HeroName20
+Mr.Rat
+HeroName21
+Demoni
+HeroName22
+Droid
+HeroName23
+tumma Raider
+HeroName24
+litle Green
+HeroName25
+Star Trooper
+HeroName26
+kurpitsa Man
+HeroName27
+Noita
+HeroName28
+Vampyyri
+HeroName29
+Luuranko
+HeroName30
+Hullu
+HeroName31
+punainen hattu
+HeroName32
+Lumiukko
+HeroName33
+joulupukki
+HeroName34
+Green Elf
+LocalNotificationsTitle
+Lahja
+LocalNotificationsText
+Hanki 100 Kolikot ilmaiseksi.
+AppInviteTitle
+AVALANCHE The Video Game
+AppInviteMessage
+Tarkista tässä hauska peli
+AppInviteCallToActionText
+Hei! Tsekkaa tämä.
+RateUsTitle
+Kuten tämän pelin?
+RateUsMessage
+Arvioi tukea tulevia päivityksiä!
+Achievements
+Saavutukset
+RateUs
+Määrä
+RateUsDecline
+Ei
+RateUsRemind
+Myöhemmin

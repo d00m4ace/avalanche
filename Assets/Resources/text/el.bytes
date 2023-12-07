@@ -1,0 +1,292 @@
+Start
+Αρχή
+Options
+επιλογές
+Settings
+Ρυθμίσεις
+Credits
+Συντελεστές
+HighScores
+Υψηλά σκορ
+Exit
+Εξοδος
+Enter
+Εισάγω
+Return
+ΕΠΙΣΤΡΟΦΗ
+Ok
+Εντάξει
+Pause
+Παύση
+Resume
+ΒΙΟΓΡΑΦΙΚΟ
+Restart
+Επανεκκίνηση
+Play
+Παίζω
+Replay
+Επανάληψη
+Close
+Κοντά
+Cancel
+Ματαίωση
+Back
+Πίσω
+Next
+επόμενος
+Previous
+Προηγούμενος
+Continue
+Να συνεχίσει
+Accept
+Αποδέχομαι
+Decline
+Πτώση
+Menu
+Μενού
+MainMenu
+Κυρίως μενού
+Account
+Λογαριασμός
+Share
+Μερίδιο
+Spin
+Γνέθω
+Buy
+Αγορά
+Sell
+Πουλώ
+Add
+Προσθέτω
+Delete
+Διαγράφω
+Pickup
+Μαζεύω
+Drop
+Πτώση
+Use
+Χρήση
+Plus
+Συν
+Minus
+Μείον
+A
+ΕΝΑ
+B
+σι
+C
+ντο
+D
+ρε
+Left
+Αριστερά
+Right
+σωστά
+Up
+Πάνω
+Down
+Κάτω
+Keyboard
+Πληκτρολόγιο
+Slotmachine
+Κουλοχέρης
+On
+Επί
+Off
+Μακριά από
+Sound
+Ήχος
+Music
+ΜΟΥΣΙΚΗ
+Language
+Γλώσσα
+Control
+Ελεγχος
+Note
+Σημείωση
+Volume
+Ενταση ΗΧΟΥ
+Shadows
+σκιές
+Facebook
+Facebook
+Twitter
+Κελάδημα
+AdsRewardedVideo
+AdsRewardedVideo
+World
+Κόσμος
+Video
+βίντεο
+FaceCam
+Πρόσωπο Cam.
+VideoRec
+Βίντεο Rec.
+SignIn
+Συνδεθείτε
+SignOut
+Αποσύνδεση
+SocialSignIn
+Κοινωνικός
+MoreGames
+Περισσότερα παιχνίδια
+InviteFriends
+Προσκαλέσετε τους φίλους
+RestorePurchases
+Επαναφορά Αγορές
+AndroidPermissionsSettingsRequest
+Παρακαλούμε να επιβεβαιώσετε αυτά τα δικαιώματα με τη μετάβαση στο [Ρυθμίσεις]> [Δικαιώματα]
+AndroidPermissionsRequestOnStart
+Το παιχνίδι χρησιμοποιεί το Google Play Games Υπηρεσίες για την αποθήκευση προφίλ παικτών? Οι υπηρεσίες αυτές απαιτούν πρόσβαση στις επαφές. Το ίδιο το παιχνίδι δεν αποθηκεύει ή χρησιμοποιεί τα δεδομένα αυτά με οποιονδήποτε τρόπο. Επιπλέον, δικαίωμα πρόσβασης εξωτερικής αποθήκευσης απαιτείται για να αποθηκεύσετε τα δεδομένα του παιχνιδιού.
+GooglePlayServices
+Google Play
+GameCenter
+Κέντρο παιχνιδιού
+NotEnoughCoins
+Όχι αρκετά κέρματα
+Yes
+Ναί
+No
+Οχι
+ExitGame
+Θέλετε να βγείτε από το παιχνίδι;
+Combo
+COMBO
+Touch
+Αφή
+Joystick
+Χειριστήριο
+Gyroscope
+Γυροσκόπιο
+Mixed
+Μικτός
+TestEnum
+Σχεδιάστε μια δοκιμαστική σκηνή στη δεξαμενή FPS σας, τότε θα μετρήσει με το δικό σας μετρητή.
+GameScreenScore
+Σκορ:
+GameScreenSpeed
+Ταχύτητα:
+GameScreenDistance
+Dist .:
+GameScreenTime
+Χρόνος:
+Ready
+Ετοιμος!
+GameOver
+Τέλος παιχνιδιού
+EnterYourName
+Εισάγετε το όνομά σας
+NewHighScorePlace
+New υψηλή βαθμολογία #
+SelectYourHero
+Επιλέξτε ήρωας σας
+SpinToWinANewHeroes
+Spin για να κερδίσει ένα νέο ήρωες
+GotANewHero
+Πήρε ένα νέο ήρωα!
+AVALANCHE
+ΧΙΟΝΟΣΤΙΒΑΔΑ
+TheVideoGame
+Το παιχνίδι Βίντεο
+Copyright
+© 2017 HEXPLAY & HEROCRAFT
+CreditsText
+© 2017 HEXPLAY & HEROCRAFT [>] [>] Κωδικοποίηση & Παιχνίδι Σχεδιασμός: Andrew Petrov [>] [>] 3D Καλλιτέχνης: Manar Ishmanov [>] [>] Μουσική: Vasiliy Filitov [>] [>] Πρωτότυπο: Kirill Osipov [ >] [>] Tester: Anton Grishin [>] [>] PR & Marketing: Dee Madiyeva [>] [>] Παραγωγός: Pavel Kostin
+PressStart
+Πατήστε ▶ START για να παίξετε
+KilometerPerHour
+km / h
+MeterShort
+m
+Completed
+Ολοκληρώθηκε το
+HeroName1
+σούπερ αγόρι
+HeroName2
+πράσινο δέρμα
+HeroName3
+κόκκινο Ιππότης
+HeroName4
+Robo άνθρωπος
+HeroName5
+Ασπίδα άνθρωπος
+HeroName6
+Οικοδόμος
+HeroName7
+Δικηγόρος
+HeroName8
+Αστυνομικός
+HeroName9
+Σερίφης
+HeroName10
+Jocker
+HeroName11
+bot 9000
+HeroName12
+Kung Fu Man
+HeroName13
+Ο Αντεροβγάλτης
+HeroName14
+contro
+HeroName15
+Xeno Τέρας
+HeroName16
+Big Eye
+HeroName17
+Spaceman
+HeroName18
+Σούπερ μωρό
+HeroName19
+Mr.Robot
+HeroName20
+Mr.Rat
+HeroName21
+Δαίμονας
+HeroName22
+Droid
+HeroName23
+σκούρο Raider
+HeroName24
+litle Πράσινη
+HeroName25
+αστέρι Trooper
+HeroName26
+κολοκύθα άνθρωπος
+HeroName27
+Μάγισσα
+HeroName28
+Βρυκόλακας
+HeroName29
+Σκελετός
+HeroName30
+Μανιακός
+HeroName31
+κόκκινο καπέλο
+HeroName32
+Χιονάνθρωπος
+HeroName33
+Σάντα
+HeroName34
+πράσινο Elf
+LocalNotificationsTitle
+Δώρο
+LocalNotificationsText
+Πάρτε 100 νομίσματα για δωρεάν.
+AppInviteTitle
+Παιχνίδι AVALANCHE Το Βίντεο
+AppInviteMessage
+Ελέγξτε αυτό το διασκεδαστικό παιχνίδι
+AppInviteCallToActionText
+Γεια σου! Ελεγξε αυτό.
+RateUsTitle
+Όπως αυτό το παιχνίδι;
+RateUsMessage
+Παρακαλούμε αξιολογήστε να υποστηρίξει μελλοντικές ενημερώσεις!
+Achievements
+επιτεύγματα
+RateUs
+Τιμή
+RateUsDecline
+Οχι
+RateUsRemind
+Αργότερα

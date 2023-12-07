@@ -1,0 +1,346 @@
+Start
+Start
+Options
+Options
+Settings
+Settings
+Credits
+Credits
+HighScores
+High Scores
+Exit
+Exit
+Enter
+Enter
+Return
+Return
+Ok
+Ok
+Pause
+Pause
+Resume
+Resume
+Restart
+Restart
+Play
+Play
+Replay
+Replay
+Close
+Close
+Cancel
+Cancel
+Back
+Back
+Next
+Next
+Previous
+Previous
+Continue
+Continue
+Accept
+Accept
+Decline
+Decline
+Menu
+Menu
+MainMenu
+Main Menu
+Account
+Account
+Share
+Share
+Spin
+Spin
+Buy
+Buy
+Sell
+Sell
+Add
+Add
+Delete
+Delete
+Pickup
+Pickup
+Drop
+Drop
+Use
+Use
+Plus
+Plus
+Minus
+Minus
+A
+A
+B
+B
+C
+C
+D
+D
+Left
+Left
+Right
+Right
+Up
+Up
+Down
+Down
+Keyboard
+Keyboard
+Slotmachine
+Slotmachine
+On
+On
+Off
+Off
+Sound
+Sound
+Music
+Music
+Language
+Language
+Control
+Control
+Note
+Note
+Volume
+Volume
+Shadows
+Shadows
+Facebook
+Facebook
+Twitter
+Twitter
+AdsRewardedVideo
+AdsRewardedVideo
+World
+World
+Video
+Video
+FaceCam
+Face Cam.
+VideoRec
+Video Rec.
+SignIn
+Sign In
+SignOut
+Sign Out
+SocialSignIn
+Social
+MoreGames
+More Games
+InviteFriends
+Invite Friends
+RestorePurchases
+Restore Purchases
+AndroidPermissionsSettingsRequest
+Please confirm these permissions by going to [Settings] > [Permissions]
+AndroidPermissionsRequestOnStart
+The game uses Google Play Games Services to store player profiles; these services require access to contacts. The game itself does not store or use this data in any manner. Additionally, permission to access external storage is required to save game data.
+GooglePlayServices
+Google Play
+GameCenter
+Game Center
+NotEnoughCoins
+Not Enough Coins
+Yes
+Yes
+No
+No
+ExitGame
+Do you want to exit game?
+Combo
+COMBO
+Touch
+Touch
+Joystick
+Joystick
+Gyroscope
+Gyroscope
+Mixed
+Mixed
+English
+English
+Russian
+Русский
+Germany
+Deutschland
+French
+Français
+Italian
+Italiano
+Spanish
+Español
+ChineseSimplified
+简体中文
+ChineseTraditional
+中國傳統的
+Korean
+한국어
+Japanese
+日本語
+Thai
+ไทย
+Vietnamese
+TiếNg ViệT
+Arabic
+عربى
+Indonesian
+Bahasa Ind.
+Polish
+Polskie
+Norwegian
+Norsk
+Portuguese
+Português
+Finnish
+Suomalainen
+Dutch
+Nederlands
+Czech
+Čeština
+Catalan
+Català
+Greek
+Ελληνικά
+Icelandic
+Icelandic
+Turkish
+Türk
+Swedish
+Svenska
+TestEnum
+Design a test scene to tank your FPS, then measure it with your own counter.
+GameScreenScore
+Score:
+GameScreenSpeed
+Speed:
+GameScreenDistance
+Dist.:
+GameScreenTime
+Time:
+Ready
+Ready!
+GameOver
+Game Over
+EnterYourName
+Enter Your Name
+NewHighScorePlace
+New High Score #
+SelectYourHero
+Select Your Hero
+SpinToWinANewHeroes
+Spin to win a new heroes
+GotANewHero
+Got a new hero!
+AVALANCHE
+AVALANCHE
+TheVideoGame
+The Video Game
+Copyright
+© 2017 HEXPLAY & HEROCRAFT
+CreditsText
+© 2017 HEXPLAY & HEROCRAFT[>][>]Coding & Game Design: Andrew Petrov[>][>]3D Artist: Manar Ishmanov[>][>]Music: Vasiliy Filitov[>][>]Prototype: Kirill Osipov[>][>]Tester: Anton Grishin[>][>]PR & Marketing: Dee Madiyeva[>][>]Producer: Pavel Kostin
+PressStart
+Press ▶START to Play
+KilometerPerHour
+km/h
+MeterShort
+m
+Completed
+Completed
+HeroName1
+Super Boy
+HeroName2
+Green Skin
+HeroName3
+Red Knight
+HeroName4
+Robo Man
+HeroName5
+Shield Man
+HeroName6
+Builder
+HeroName7
+Lawyer
+HeroName8
+Policeman
+HeroName9
+Sheriff
+HeroName10
+Jocker
+HeroName11
+Bot 9000
+HeroName12
+Kung Fu Man
+HeroName13
+The Ripper
+HeroName14
+Contro 
+HeroName15
+Xeno Beast
+HeroName16
+Big Eye
+HeroName17
+Spaceman
+HeroName18
+Super Baby
+HeroName19
+Mr.Robot
+HeroName20
+Mr.Rat
+HeroName21
+Demon
+HeroName22
+Droid
+HeroName23
+Dark Raider
+HeroName24
+Litle Green
+HeroName25
+Star Trooper
+HeroName26
+Pumpkin Man
+HeroName27
+Witch
+HeroName28
+Vampire
+HeroName29
+Skeleton
+HeroName30
+Maniac
+HeroName31
+Red Hat
+HeroName32
+Snowman
+HeroName33
+Santa
+HeroName34
+Green Elf
+LocalNotificationsTitle
+A gift!
+LocalNotificationsText
+Get 100 Coins for free.
+AppInviteTitle
+AVALANCHE The Video Game
+AppInviteMessage
+Hi! Look, a fun retro arcade!
+AppInviteCallToActionText
+Hi! Look, a fun retro arcade!
+RateUsTitle
+Did you enjoy the game?
+RateUsMessage
+Please rate to support future updates!
+Achievements
+Achievements
+Support
+Support
+RemoveADs
+Purchase anything in the game to remove ads!
+RateUs
+Rate Us
+RateUsDecline
+No, Thanks
+RateUsRemind
+Later

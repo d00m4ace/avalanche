@@ -1,0 +1,296 @@
+Start
+Jouer
+Options
+Options
+Settings
+Paramètres
+Credits
+Crédits
+HighScores
+Meilleurs scores
+Exit
+Quitter
+Enter
+Rejoindre
+Return
+Retour
+Ok
+OK
+Pause
+Pause
+Resume
+Reprendre
+Restart
+Recommencer
+Play
+Jouer
+Replay
+Rejouer
+Close
+Fermer
+Cancel
+Annuler
+Back
+Retour
+Next
+Suivant
+Previous
+Précédent
+Continue
+Continuer
+Accept
+Accepter
+Decline
+Refuser
+Menu
+Menu
+MainMenu
+Menu principal
+Account
+Compte
+Share
+Partager
+Spin
+Lancer
+Buy
+Acheter
+Sell
+Vendre
+Add
+Ajouter
+Delete
+Supprimer
+Pickup
+Prendre
+Drop
+Jeter
+Use
+Utiliser
+Plus
+Plus
+Minus
+Moins
+A
+A
+B
+B
+C
+C
+D
+D
+Left
+Gauche
+Right
+Droite
+Up
+Haut
+Down
+Bas
+Keyboard
+Clavier
+Slotmachine
+Machine à sous
+On
+Activé
+Off
+Désactivé
+Sound
+Sons
+Music
+Musique
+Language
+Langue
+Control
+Commandes
+Note
+Remarque
+Volume
+Volume
+Shadows
+Ombre
+Facebook
+Facebook
+Twitter
+Twitter
+AdsRewardedVideo
+AdsRewardedVideo
+World
+Monde
+Video
+Vidéo
+FaceCam
+Caméra de visage
+VideoRec
+Enregistrement vidéo
+SignIn
+Connexion
+SignOut
+Déconnexion
+SocialSignIn
+Réseaux sociaux
+MoreGames
+Plus De Jeux
+InviteFriends
+Inviter Des Amis
+RestorePurchases
+Restaurer Achats
+AndroidPermissionsSettingsRequest
+Accordez ces autorisations depuis le menu [Paramètres] > [Permissions]
+AndroidPermissionsRequestOnStart
+Le jeu utilise les services de jeux Google Play pour enregistrer les profils de joueurs. Ces services nécessitent l’accès aux contacts. Le jeu ne conserve ni n’utilise ces données d’aucune manière. Une autorisation pour accéder au stockage externe est toutefois nécessaire pour sauvegarder les données du jeu.
+GooglePlayServices
+Google Play
+GameCenter
+Game Center
+NotEnoughCoins
+Pièces insuffisantes
+Combo
+COMBO
+Touch
+Tactile
+Joystick
+Joystick
+Gyroscope
+Gyroscope
+Mixed
+Mixte
+TestEnum
+Design a test scene to tank your FPS, then measure it with your own counter.
+GameScreenScore
+Score :
+GameScreenSpeed
+Vitesse :
+GameScreenDistance
+Distance :
+GameScreenTime
+Temps :
+Ready
+Prêt !
+GameOver
+Partie terminée
+EnterYourName
+Entrez votre nom
+NewHighScorePlace
+Nouveau record n°
+SelectYourHero
+Sélectionnez votre personnage
+SpinToWinANewHeroes
+Lancez la roue pour gagner de nouveaux personnages
+GotANewHero
+Nouveau personnage !
+AVALANCHE
+AVALANCHE
+TheVideoGame
+Le jeu vidéo
+Copyright
+© 2017 HEXPLAY & HEROCRAFT
+CreditsText
+© 2017 HEXPLAY & HEROCRAFT[>][>]Conception & Programmation : Andrew Petrov[>][>]Graphismes 3D : Manar Ishmanov[>][>]Musique : Vasiliy Filitov[>][>]Prototype : Kirill Osipov[>][>]Test : Anton Grishin[>][>]RP & Marketing : Dee Madiyeva[>][>]Production : Pavel Kostin
+PressStart
+Appuyez sur ▶JOUER pour jouer
+KilometerPerHour
+km/h
+MeterShort
+m
+Completed
+Terminé
+HeroName1
+Super-Boy
+HeroName2
+Peau Verte
+HeroName3
+Chevalier Rouge
+HeroName4
+Robot-Man
+HeroName5
+M. Bouclier
+HeroName6
+Maçon
+HeroName7
+Avocat
+HeroName8
+Policier
+HeroName9
+Shérif
+HeroName10
+Joker
+HeroName11
+Robot 9000
+HeroName12
+Maître de kung-fu
+HeroName13
+L'éventreur
+HeroName14
+Contro
+HeroName15
+Xéno-X
+HeroName16
+Méga Œil
+HeroName17
+Astronaute
+HeroName18
+Super Bébé
+HeroName19
+M. Robot
+HeroName20
+M. Rat
+HeroName21
+Démon
+HeroName22
+Droïde
+HeroName23
+Chevalier des Ombres
+HeroName24
+P'tit Vert
+HeroName25
+Stormtrooper
+HeroName26
+M. Citrouille
+HeroName27
+Sorcière
+HeroName28
+Vampire
+HeroName29
+Squelette
+HeroName30
+Maniaque
+HeroName31
+Chaperon Rouge
+HeroName32
+Bonhomme de Neige
+HeroName33
+Père Noël
+HeroName34
+Elfe
+LocalNotificationsTitle
+Un cadeau !
+LocalNotificationsText
+Recevez gratuitement des pièces tout de suite !
+AppInviteTitle
+AVALANCHE, le jeu vidéo
+AppInviteMessage
+Salut ! Regarde, un super jeu d’arcade rétro !
+AppInviteCallToActionText
+Salut ! Regarde, un super jeu d’arcade rétro !
+RateUsTitle
+Est-ce que le jeu vous a plu ?
+RateUsMessage
+Notez-le pour nous soutenir !
+Yes
+Oui
+No
+Non
+ExitGame
+Voulez-vous quitter le jeu?
+Achievements
+Achievements
+Support
+Soutien
+RemoveADs
+Faites un achat dans le jeu pour retirer la publicité!
+RateUs
+Évaluez nous
+RateUsDecline
+Non merci
+RateUsRemind
+Plus tard

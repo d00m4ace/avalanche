@@ -1,0 +1,7 @@
+Frames animation 
+The character's actions:
+Idle 0 50 loop
+Move 50 100 once
+Attack 101 150 once
+Fall 151 200 once
+Rest 151 152 once

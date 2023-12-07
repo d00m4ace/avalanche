@@ -1,0 +1,296 @@
+Start
+Start
+Options
+Optionen
+Settings
+Einstellungen
+Credits
+Mitwirkende
+HighScores
+Highscores
+Exit
+Ende
+Enter
+Betreten
+Return
+Zurück
+Ok
+Okay
+Pause
+Pause
+Resume
+Fortfahren
+Restart
+Neustart
+Play
+Spielen
+Replay
+Abspielen
+Close
+Schließen
+Cancel
+Abbrechen
+Back
+Zurück
+Next
+Weiter
+Previous
+Zuvor
+Continue
+Weiter
+Accept
+Annehmen
+Decline
+Ablehnen
+Menu
+Menü
+MainMenu
+Hauptmenü
+Account
+Konto
+Share
+Teilen
+Spin
+Spielen
+Buy
+Kaufen
+Sell
+Verkaufen
+Add
+Hinzufügen
+Delete
+Löschen
+Pickup
+Nehmen
+Drop
+Ablegen
+Use
+Verwenden
+Plus
+Plus
+Minus
+Minus
+A
+A
+B
+B
+C
+C
+D
+D
+Left
+Links
+Right
+Rechts
+Up
+Oben
+Down
+Unten
+Keyboard
+Tastatur
+Slotmachine
+Spielautomat
+On
+An
+Off
+Aus
+Sound
+Sound
+Music
+Musik
+Language
+Sprach
+Control
+Steuerung
+Note
+Hinweis
+Volume
+Lautstärke
+Shadows
+Schatten
+Facebook
+Facebook
+Twitter
+Twitter
+AdsRewardedVideo
+AdsRewardedVideo
+World
+Welt
+Video
+Video
+FaceCam
+Gesichtskamera
+VideoRec
+Videoaufnahme
+SignIn
+Anmelden
+SignOut
+Abmelden
+SocialSignIn
+Soziale Medien
+MoreGames
+Mehr Spiele
+InviteFriends
+Freunde Einladen
+RestorePurchases
+Wiederherstellen Käufe
+AndroidPermissionsSettingsRequest
+Erteile bitte die Berechtigung dazu unter [Einstellungen] > [Berechtigungen]
+AndroidPermissionsRequestOnStart
+Das Spiel verwendet Google Play Games Services zum Speichern von Spielerprofilen. Diese Services erfordern Zugriff auf die Kontakte. Das Spiel selbst speichert oder verwendet keinerlei Daten. Außerdem ist zum Speichern der Spieldaten der Zugriff auf den externen Speicher erforderlich.
+GooglePlayServices
+Google Play
+GameCenter
+Game Center
+NotEnoughCoins
+Nicht genug Münzen
+Combo
+KOMBO
+Touch
+Touch
+Joystick
+Joystick
+Gyroscope
+Gyroskop
+Mixed
+Gemischt
+TestEnum
+Gestalte eine Testszene, um deine BpS zu überprüfen und miss sie dann mit deinem eigenen Zähler.
+GameScreenScore
+Punkte:
+GameScreenSpeed
+Tempo:
+GameScreenDistance
+Entf.:
+GameScreenTime
+Zeit:
+Ready
+Bereit!
+GameOver
+Game Over
+EnterYourName
+Namen eingeben
+NewHighScorePlace
+Neue Highscore #
+SelectYourHero
+Held wählen
+SpinToWinANewHeroes
+Für neue Helden spielen
+GotANewHero
+Du hast einen neuen Helden!
+AVALANCHE
+LAWINE
+TheVideoGame
+Das Videospiel
+Copyright
+© 2017 HEXPLAY & HEROCRAFT
+CreditsText
+© 2017 HEXPLAY & HEROCRAFT[>][>]Programmierung & Spieldesign: Andrew Petrov[>][>]3D-Grafik: Manar Ishmanov[>][>]Musik: Vasiliy Filitov[>][>]Prototyp: Kirill Osipov[>][>]Tester: Anton Grishin[>][>]PR & Marketing: Dee Madiyeva[>][>]Produzent: Pavel Kostin
+PressStart
+Drücke ▶START zum Spielen
+KilometerPerHour
+km/h
+MeterShort
+m
+Completed
+Abgeschlossen
+HeroName1
+Super-Boy
+HeroName2
+Grünhaut
+HeroName3
+Roter Ritter
+HeroName4
+Robo-Man
+HeroName5
+Shield-Man
+HeroName6
+Bauarbeiter
+HeroName7
+Anwalt
+HeroName8
+Polizist
+HeroName9
+Sheriff
+HeroName10
+Joker
+HeroName11
+Bot 9000
+HeroName12
+Kung-Fu-Man
+HeroName13
+The Ripper
+HeroName14
+Contro
+HeroName15
+Xeno-Beast
+HeroName16
+Big Eye
+HeroName17
+Spaceman
+HeroName18
+Super-Baby
+HeroName19
+Mr. Robot
+HeroName20
+Mr. Rat
+HeroName21
+Dämon
+HeroName22
+Droide
+HeroName23
+Dunkelplünderer
+HeroName24
+Kleingrün
+HeroName25
+Star Trooper
+HeroName26
+Kürbis-Man
+HeroName27
+Hexe
+HeroName28
+Vampir
+HeroName29
+Skelett
+HeroName30
+Irrer
+HeroName31
+Rothut
+HeroName32
+Schneemann
+HeroName33
+Santa
+HeroName34
+Grüner Elf
+LocalNotificationsTitle
+Ein Geschenk!
+LocalNotificationsText
+Hol dir jetzt gleich Münzen!
+AppInviteTitle
+AVALANCHE - Das Videospiel
+AppInviteMessage
+Hi! Schau mal, ein lustiges Retro-Arcade!
+AppInviteCallToActionText
+Hi! Schau mal, ein lustiges Retro-Arcade!
+RateUsTitle
+Hat dir das Spiel gefallen?
+RateUsMessage
+Dann bewerte es, um das Projekt zu unterstützen!
+Yes
+Ja
+No
+Nein
+ExitGame
+Möchtest Du das Spiel verlassen?
+Achievements
+Achievements
+Support
+Unterstützung
+RemoveADs
+Kaufe irgendetwas im Spiel, um die Werbung zu entfernen!
+RateUs
+Bewerten Sie uns
+RateUsDecline
+Nein Danke
+RateUsRemind
+Später
