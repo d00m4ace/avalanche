@@ -5,7 +5,7 @@ The build is available with Unity 3D, Unity 2022.3.15f1 LTS and is compatible wi
 
 The main stage scene is the **\Assets\common\scenes\default.unity**
 
-![game play](https://d00m4ace.com/imgs/avalanche/avalanche01.gif)
+![Game Play](https://github.com/d00m4ace/avalanche/blob/main/webimg/avalanche01.gif)
 
 Description of Crossy Snow: Avalanche!
 Hop on your skis and speed away - you're being chased by a huge avalanche of snow... and pixels!
