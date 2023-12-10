@@ -6,6 +6,7 @@ using HEXPLAY;
 using UnityEngine;
 using System.Text;
 using System.Runtime.InteropServices;
+using UnityEngine.Rendering;
 
 public class startup : MonoBehaviour
 {
@@ -99,6 +100,10 @@ public class startup : MonoBehaviour
 		Game.CreateGame();
 
 		isSetupCompleted = true;
+
+		RenderSettings.ambientMode = AmbientMode.Flat;
+		RenderSettings.ambientLight = new UnityEngine.Color(0.5f, 0.5f, 0.5f);
+		RenderSettings.ambientIntensity = 0.0f;
 
 		yield return null;
 	}
