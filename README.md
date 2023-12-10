@@ -1,7 +1,7 @@
 # Crossy Snow: Avalanche!
 C# solo-developed Unity3D game, retro-style arcade game with cube graphics, full source code and assets included.
 
-The build is available with Unity 3D, Unity 2022.3.15f1 LTS and is compatible with Visual Studio 2022. 
+The build is available with Unity3D, Unity 2023.2.3f1 LTS and is compatible with Visual Studio 2022. 
 
 The main stage scene is the **\Assets\common\scenes\default.unity**
 
